@@ -11,5 +11,5 @@
     &lt; style="background-image: url('Icon.png');"&gt;
     <background-repeat: no-repeat;="">
     <img src="./My first website using hmtl_files/Icon.png" alt="ICON">
-    <a href="video.html"><img src="./My first website using hmtl_files/click.png" alt="a link" style="width:200px;height:200px;"></a>
+    <a href="./My first website using hmtl_files/video.html"><img src="./My first website using hmtl_files/click.png" alt="a link" style="width:200px;height:200px;"></a>
 </background-repeat:></body></html>
